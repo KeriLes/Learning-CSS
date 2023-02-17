@@ -1,3 +1,9 @@
-body {
+#main-text {
     color: red;
 }
+
+div b, div i {
+    color: rgb(0, 255, 0);
+}
+
+/* div, .name-class, #nameid, div p */
